@@ -18,4 +18,4 @@ Changelog
 - code in *lang.class.php* were improved with https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md guides 
 - try-catch block was added to *index.php*
 
-[Demo Skryptu](http://skryptoteka.rynko.pl/tutorials/done/multi_language_website/index.php)
+[Demo](http://skryptoteka.rynko.pl/tutorials/done/multi_language_website/index.php)
