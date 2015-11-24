@@ -1,6 +1,5 @@
 ##Multilanguage website script
 -----------------
-
 This simple script based on one class allows you to create multilanguage website. 
 Core of script is included in *lang.class.php*.
 
